@@ -1,0 +1,20 @@
+Customer Billing Summary — Customer (as of 28-Nov-2025)
+
+1) Lifetime billing
+   Total invoiced: Rs 965,440
+   First invoice date: 18-Jun-2022
+
+2) Billing by financial year (April–March)
+   FY2022-23: Rs 220,450 across 47 invoice(s)
+   FY2023-24: Rs 243,800 across 72 invoice(s)
+   FY2024-25: Rs 286,300 across 77 invoice(s)
+   FY2025-26: Rs 214,890 across 54 invoice(s)
+
+3) Billing for current calendar year (Jan–Dec 2025)
+   2025: Rs 290,140 across 78 invoice(s)
+
+4) Current outstanding balance
+   Rs 119,840
+
+5) Total number of rented orders
+   249

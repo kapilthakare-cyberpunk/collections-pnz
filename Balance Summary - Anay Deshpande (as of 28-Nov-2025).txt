@@ -1,0 +1,11 @@
+Balance Summary — Anay Deshpande (as of 28-Nov-2025)
+
+1) Total balance payable as of today: Rs 11,075
+
+2) Total number of orders with balance payable: 3
+
+3) Unpaid invoice date range
+   From 26-Nov-2025 to 14-Dec-2025
+
+Notes
+ - Only invoices with Balance > 0 are counted.

@@ -1,0 +1,11 @@
+Balance Summary — Sudeep Wakade (as of 28-Nov-2025)
+
+1) Total balance payable as of today: Rs 138,840
+
+2) Total number of orders with balance payable: 29
+
+3) Unpaid invoice date range
+   From 09-Jul-2025 to 09-Dec-2025
+
+Notes
+ - Only invoices with Balance > 0 are counted.

@@ -1,0 +1,44 @@
+Outstanding Balance — Sudeep Wakade (as of 28-Nov-2025)
+
+1) Summary
+   Outstanding balance: Rs 138,840
+   Outstanding invoices: 29
+   Outstanding orders: 29
+
+2) Outstanding invoices (balance > 0)
+   09-Jul-2025 | Order Rental Order-252604840 | Inv 252603625 | Balance Rs 1,400 | Invoice Rs 1,400 | Receipts No receipt
+   09-Jul-2025 | Order Rental Order-252605014 | Inv 252603626 | Balance Rs 3,500 | Invoice Rs 5,100 | Receipts Rs 1,600
+   09-Jul-2025 | Order Rental Order-252605090 | Inv 252603766 | Balance Rs 1,400 | Invoice Rs 1,400 | Receipts No receipt
+   11-Jul-2025 | Order Rental Order-252605091 | Inv 252603707 | Balance Rs 3,800 | Invoice Rs 3,800 | Receipts No receipt
+   19-Jul-2025 | Order Rental Order-252605373 | Inv 252603948 | Balance Rs 200 | Invoice Rs 2,400 | Receipts Rs 2,200
+   31-Jul-2025 | Order Rental Order-252605847 | Inv 252604232 | Balance Rs 10,590 | Invoice Rs 10,340 | Receipts No receipt
+   13-Aug-2025 | Order Rental Order-252606428 | Inv 252604604 | Balance Rs 6,350 | Invoice Rs 6,350 | Receipts No receipt
+   15-Aug-2025 | Order Rental Order-252606435 | Inv 252604665 | Balance Rs 2,750 | Invoice Rs 2,750 | Receipts No receipt
+   21-Aug-2025 | Order Rental Order-252606911 | Inv 252604812 | Balance Rs 3,900 | Invoice Rs 3,900 | Receipts No receipt
+   05-Sep-2025 | Order Rental Order-252607281 | Inv 252605242 | Balance Rs 4,250 | Invoice Rs 4,250 | Receipts No receipt
+   11-Sep-2025 | Order Rental Order-252607705 | Inv 252605394 | Balance Rs 4,300 | Invoice Rs 4,300 | Receipts No receipt
+   11-Sep-2025 | Order Rental Order-252607769 | Inv 252605443 | Balance Rs 400 | Invoice Rs 400 | Receipts No receipt
+   13-Sep-2025 | Order Rental Order-252607887 | Inv 252605492 | Balance Rs 3,400 | Invoice Rs 3,400 | Receipts No receipt
+   18-Sep-2025 | Order Rental Order-252608091 | Inv 252605634 | Balance Rs 4,750 | Invoice Rs 4,750 | Receipts No receipt
+   22-Sep-2025 | Order Rental Order-252608266 | Inv 252605739 | Balance Rs 1,600 | Invoice Rs 1,600 | Receipts No receipt
+   25-Sep-2025 | Order Rental Order-252608460 | Inv 252605837 | Balance Rs 4,700 | Invoice Rs 4,700 | Receipts No receipt
+   05-Oct-2025 | Order Rental Order-252608856 | Inv 252606135 | Balance Rs 5,650 | Invoice Rs 5,650 | Receipts No receipt
+   29-Oct-2025 | Order Rental Order-252609172 | Inv 252606407 | Balance Rs 4,150 | Invoice Rs 4,150 | Receipts No receipt
+   04-Nov-2025 | Order Rental Order-252610516 | Inv 252607192 | Balance Rs 5,600 | Invoice Rs 5,600 | Receipts No receipt
+   06-Nov-2025 | Order Rental Order-252610518 | Inv 252607261 | Balance Rs 700 | Invoice Rs 700 | Receipts No receipt
+   06-Nov-2025 | Order Rental Order-252610523 | Inv 252607260 | Balance Rs 3,400 | Invoice Rs 3,400 | Receipts No receipt
+   07-Nov-2025 | Order Rental Order-252610689 | Inv 252607315 | Balance Rs 1,200 | Invoice Rs 1,200 | Receipts No receipt
+   10-Nov-2025 | Order Rental Order-252610945 | Inv 252607495 | Balance Rs 1,700 | Invoice Rs 1,700 | Receipts No receipt
+   13-Nov-2025 | Order Rental Order-252610519 | Inv 252607613 | Balance Rs 8,400 | Invoice Rs 8,400 | Receipts No receipt
+   20-Nov-2025 | Order Rental Order-252610520 | Inv 252607928 | Balance Rs 7,550 | Invoice Rs 7,550 | Receipts No receipt
+   20-Nov-2025 | Order Rental Order-252610957 | Inv 252607924 | Balance Rs 19,350 | Invoice Rs 19,350 | Receipts No receipt
+   25-Nov-2025 | Order Rental Order-252610521 | Inv 252608287 | Balance Rs 3,700 | Invoice Rs 3,700 | Receipts No receipt
+   02-Dec-2025 | Order Rental Order-252610525 | Inv   | Balance Rs 8,600 | Invoice Rs 8,600 | Receipts No receipt
+   09-Dec-2025 | Order Rental Order-252610526 | Inv   | Balance Rs 11,550 | Invoice Rs 11,550 | Receipts No receipt
+
+3) Invoices with no receipt recorded (and balance payable)
+   Count: 27
+   Oldest pending invoice date: 09-Jul-2025
+
+4) Notes
+   Balance > 0 rows are treated as outstanding, including partial receipts.

@@ -1,0 +1,21 @@
+Customer Billing Summary — Anay Deshpande (as of 28-Nov-2025)
+
+1) Lifetime billing
+   Total invoiced: Rs 130,665
+   First invoice date: 11-Oct-2020
+
+2) Billing by financial year (April–March)
+   FY2020-21: Rs 975 across 1 invoice(s)
+   FY2022-23: Rs 5,350 across 3 invoice(s)
+   FY2023-24: Rs 17,210 across 10 invoice(s)
+   FY2024-25: Rs 27,350 across 16 invoice(s)
+   FY2025-26: Rs 79,780 across 17 invoice(s)
+
+3) Billing for current calendar year (Jan–Dec 2025)
+   2025: Rs 85,480 across 23 invoice(s)
+
+4) Current outstanding balance
+   Rs 1,390
+
+5) Total number of rented orders
+   47

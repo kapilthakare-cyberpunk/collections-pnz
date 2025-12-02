@@ -1,0 +1,4 @@
+Inv No,Order No,Inv ID,Cust ID,Inv Date,Inv Type,Status,Customer,Billing Name,GSTIN,Inv Value,Credits,Debits,Receipts,Write-Off,Balance
+INV-001,ORDER-1001,1,CUST-1,2025-11-01,Rental,Paid,Sample Customer,Sample Customer,GSTIN1234,10000,0,0,10000,0,0
+INV-002,ORDER-1002,2,CUST-1,2025-11-05,Rental,Open,Sample Customer,Sample Customer,GSTIN1234,5000,0,0,1000,0,4000
+INV-003,ORDER-1003,3,CUST-1,2025-11-10,Rental,Open,Sample Customer,Sample Customer,GSTIN1234,7500,0,0,0,0,7500
